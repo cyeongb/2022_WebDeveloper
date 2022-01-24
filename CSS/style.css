@@ -1,16 +1,4 @@
-body {
-    background: #bccbcf;
-}
-
-h1 {
-    color: #303D74;
-    text-align: center;
-    border: 3px solid #7B85AD;
-    padding: 10px 0;
-    cursor: pointer;
-}
-
-li {
-    list-style: none;
-    display: inline-block;
+img {
+    width: 380px;
+    height: 380px;
 }
