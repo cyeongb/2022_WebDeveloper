@@ -1,0 +1,9 @@
+.btn-primary {
+    background-color: slateblue;
+    border: none;
+    transition: all 0.4s;
+}
+
+.btn-primary:hover {
+    background-color: darkslateblue;
+}
