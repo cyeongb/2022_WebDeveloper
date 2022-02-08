@@ -1,7 +1,16 @@
+body {
+    margin: 0;
+}
+
 img {
     width: 380px;
     height: 380px;
     padding: 10px;
+    transition: all 0.4s;
+}
+
+img:hover {
+    transform: scale(1.1);
 }
 
 
@@ -12,6 +21,8 @@ h1 {
     width: 800px;
     text-align: center;
     padding-right: 30px;
+    box-shadow: 4px 4px 5px #888888;
+
 }
 
 .container {
